@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="256"
+   id="svg5104"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bitcoindark-logo-h.svg"
+   inkscape:export-filename="/home/gabo/Dokumenty/Graphics/btcd/bitcoindark-logo-h.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs5106" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="658.48803"
+     inkscape:cy="259.58327"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5109">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36218)">
+    <g
+       id="g4548"
+       transform="matrix(2.2377896,0,0,2.2377896,-122.29057,-693.35099)">
+      <text
+         transform="scale(1.0000352,0.99996479)"
+         sodipodi:linespacing="125%"
+         id="text2985"
+         y="730.65814"
+         x="114.38916"
+         style="font-size:24.02173424px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aller;-inkscape-font-specification:Aller"
+         xml:space="preserve"><tspan
+           y="730.65814"
+           x="114.38916"
+           id="tspan2987"
+           sodipodi:role="line"><tspan
+   id="tspan3856"
+   style="fill:#ff6600">BITCOIN</tspan>DARK</tspan></text>
+      <g
+         transform="matrix(0.418913,0,0,0.418913,16.434749,515.08743)"
+         id="g4476">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4478"
+           transform="translate(0,308.2677)"
+           d="m 176.40625,155.875 c -0.11881,6.58122 -1.71113,12.79729 -4.40625,18.375 6.39134,0.47403 11.4375,5.80048 11.4375,12.3125 0,6.54316 -5.09644,11.91425 -11.53125,12.34375 2.74038,5.57424 4.34428,11.80848 4.5,18.40625 14.81228,-2.38925 26.125,-15.26857 26.125,-30.75 0,-15.47949 -11.31837,-28.29918 -26.125,-30.6875 z"
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4480"
+           transform="translate(0,308.2677)"
+           d="m 158.21875,190.8125 c -6.74613,4.91842 -14.93225,7.96852 -23.8125,8.40625 9.33687,1.07443 16.5777,8.90117 16.8125,18.46875 l 18.625,0 c 0,-10.59786 -4.48139,-20.13262 -11.625,-26.875 z"
+           style="color:#000000;fill:#ff6600;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4482"
+           transform="translate(0,308.2677)"
+           d="m 151.21875,155.75 c -0.24379,10.09381 -8.30465,18.22231 -18.375,18.5625 l 0,18.4375 c 20.4249,0 37,-16.57654 37,-37 l -18.625,0 z"
+           style="color:#000000;fill:#ff6600;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+  </g>
+</svg>
