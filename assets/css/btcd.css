@@ -1711,6 +1711,12 @@ ul#filters li button.btn-link.active {
   color: #f4f5f7;
   background: #439ad5;
 }
+.bg-blue.services-1 .icon {
+  background: none;
+}
+.services-1 .icon-effect li {
+  list-style: none;
+}
 .services-1 .icon:after {
   pointer-events: none;
   position: absolute;
@@ -1744,6 +1750,11 @@ ul#filters li button.btn-link.active {
   background: transparent;
   color: #439ad5;
   box-shadow: 0 0 0 4px #439ad5;
+}
+.bg-blue.services-1 .icon-effect li:hover .icon {
+  background: transparent;
+  color: #fff;
+  box-shadow: 0 0 0 4px #fff;
 }
 .services-1 .icon-effect li:hover .icon:before {
   -webkit-animation: toRightFromLeft 0.3s forwards;
@@ -1812,6 +1823,15 @@ ul#filters li button.btn-link.active {
 }
 .services-1 .icon-flag:before {
   content: "\f024";
+}
+.services-1 .icon-windows:before {
+  content: "\f17a";
+}
+.services-1 .icon-osx:before {
+  content: "\f179";
+}
+.services-1 .icon-linux:before {
+  content: "\f17c";
 }
 .services-1.bg-dark .icon,
 .services-1.bg-primary .icon,
